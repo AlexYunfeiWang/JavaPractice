@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba7b6e65-d4e2-418a-87e9-a3ec95f1bd4c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FruitIntoBaskets/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FruitIntoBaskets/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ValidNumber/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ValidNumber/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -70,7 +70,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552867508390" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552868670150" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -99,7 +99,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1911" y="-9" width="1098" height="1938" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
