@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="65bb680b-1c15-454c-b90e-de36db419c09" name="Default Changelist" comment="">
+    <list default="true" id="b4444644-8b96-452e-b15a-69cc5746c7bb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../IntegerToRoman/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IntegerToRoman/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ValidNumber/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ValidNumber/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,10 +15,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ValidNumber.java">
+        <entry file="file://$PROJECT_DIR$/src/FruitIntoBaskets.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+            <state relative-caret-position="925">
+              <caret line="37" column="19" lean-forward="true" selection-start-line="3" selection-start-column="8" selection-end-line="37" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -38,7 +38,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/ValidNumber.java" />
+        <option value="$PROJECT_DIR$/src/FruitIntoBaskets.java" />
       </list>
     </option>
   </component>
@@ -54,23 +54,23 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="ValidNumber" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ValidNumber" type="462c0819:PsiDirectoryNode" />
+              <item name="FruitIntoBaskets" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FruitIntoBaskets" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552867508401" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552867508415" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -89,11 +89,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="65bb680b-1c15-454c-b90e-de36db419c09" name="Default Changelist" comment="" />
-      <created>1552865182543</created>
+      <changelist id="b4444644-8b96-452e-b15a-69cc5746c7bb" name="Default Changelist" comment="" />
+      <created>1552866887748</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1552865182543</updated>
+      <updated>1552866887748</updated>
     </task>
     <servers />
   </component>
@@ -106,7 +106,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.24951077" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24951077" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
@@ -131,10 +131,10 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ValidNumber.java">
+    <entry file="file://$PROJECT_DIR$/src/FruitIntoBaskets.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+        <state relative-caret-position="925">
+          <caret line="37" column="19" lean-forward="true" selection-start-line="3" selection-start-column="8" selection-end-line="37" selection-end-column="19" />
         </state>
       </provider>
     </entry>
