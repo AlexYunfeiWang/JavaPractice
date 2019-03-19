@@ -15,6 +15,14 @@ public class Waiter implements Runnable{
     @Override
     public void run() {
         String name = Thread.currentThread().getName();
+        /*
+        Note that the thread must be inside a synchronized block of code
+        that synchronizes on the same object as the one on which wait()
+        is being called, or in other words, the thread must hold the monitor
+        of the object on which it'll call wait.
+
+        If not so, an illegalMonitor exception is raised!
+         */
         synchronized(msg) {
             try {
                 System.out.println(name+" waiting to get notified at time:"

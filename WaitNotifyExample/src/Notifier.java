@@ -18,6 +18,11 @@ public class Notifier implements Runnable{
         System.out.println(name+" started");
         try {
             Thread.sleep(1500);
+            /*
+            Like the wait method, notify() can only be called by the thread
+            which owns the monitor for the object on which notify() is being
+            called else an illegal monitor exception is thrown.
+             */
             synchronized (msg) {
                 msg.setMsg(name+" Notifier work done");
                 //msg.notify();

@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb31fe6e-2be1-473d-a492-f4ed39e26725" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../OpenTheLock/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenTheLock/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Notifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notifier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Waiter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Waiter.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,11 +32,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Waiter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="725">
-              <caret line="29" column="19" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
+            <state relative-caret-position="575">
+              <caret line="23" column="57" selection-start-line="23" selection-start-column="57" selection-end-line="23" selection-end-column="57" />
               <folding>
                 <element signature="e#319#320#0" expanded="true" />
                 <element signature="e#346#347#0" expanded="true" />
@@ -47,7 +49,7 @@
         <entry file="file://$PROJECT_DIR$/src/Notifier.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="575">
-              <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+              <caret line="23" column="63" selection-start-line="23" selection-start-column="63" selection-end-line="23" selection-end-column="63" />
               <folding>
                 <element signature="e#313#314#0" expanded="true" />
                 <element signature="e#343#344#0" expanded="true" />
@@ -56,11 +58,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/WaitNotifyTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="24" column="8" lean-forward="true" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+            <state relative-caret-position="375">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -81,9 +83,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/Message.java" />
+        <option value="$PROJECT_DIR$/src/WaitNotifyTest.java" />
         <option value="$PROJECT_DIR$/src/Waiter.java" />
         <option value="$PROJECT_DIR$/src/Notifier.java" />
-        <option value="$PROJECT_DIR$/src/WaitNotifyTest.java" />
       </list>
     </option>
   </component>
@@ -120,7 +122,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552961040718" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552962892273" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -170,7 +172,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24951077" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24951077" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
@@ -211,10 +213,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/WaitNotifyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Notifier.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="575">
-          <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+          <caret line="23" column="63" selection-start-line="23" selection-start-column="63" selection-end-line="23" selection-end-column="63" />
           <folding>
             <element signature="e#313#314#0" expanded="true" />
             <element signature="e#343#344#0" expanded="true" />
@@ -224,19 +233,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Waiter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="725">
-          <caret line="29" column="19" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
+        <state relative-caret-position="575">
+          <caret line="23" column="57" selection-start-line="23" selection-start-column="57" selection-end-line="23" selection-end-column="57" />
           <folding>
             <element signature="e#319#320#0" expanded="true" />
             <element signature="e#346#347#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/WaitNotifyTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="24" column="8" lean-forward="true" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
         </state>
       </provider>
     </entry>
