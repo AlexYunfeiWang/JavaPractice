@@ -28,15 +28,18 @@ public class ValidNumber {
                 dot = true;
             }
             else if (c == 'e') {
-                if (exp || !num) {
-                    //if exp already exists or previous char is not a number
+                if (exp || !num || i == s.length()-1) {
+                    //if exp already exists
+                    //if previous char is not a number
+                    //if 'e' is the last one in String
                     return false;
                 }
                 exp = true;
             }
             else if (c == '+' || c == '-') {
-                if (s.charAt(i-1) != 'e') {
+                if (s.charAt(i-1) != 'e' || i == s.length()-1) {
                     //i.e. 2e+10 is valid, so the previous char must be a number
+                    //or if this is the last one in String
                     return false;
                 }
             }
