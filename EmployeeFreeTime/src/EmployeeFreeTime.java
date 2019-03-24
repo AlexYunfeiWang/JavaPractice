@@ -36,10 +36,9 @@ public class EmployeeFreeTime {
         }
         List<Interval> list = new ArrayList<>();
         for (List<Interval> sub : schedule) {
-            for (Interval time : sub) {
-                list.add(time);
-            }
+            list.addAll(sub);
         }
+
         Collections.sort(list, (a, b) -> a.start - b.start);
         List<Interval> merged = mergeSchedule(list);
 
