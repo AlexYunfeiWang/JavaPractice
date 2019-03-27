@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5df12d07-97c9-4d4f-af4e-8d3f0a749412" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Minesweeper/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Minesweeper/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5df12d07-97c9-4d4f-af4e-8d3f0a749412" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,8 +14,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/RegexMatch.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
-              <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+            <state relative-caret-position="425">
+              <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1526#1527#0" expanded="true" />
@@ -74,7 +72,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553656516574" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553656522948" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -103,7 +101,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1911" y="-9" width="1098" height="1938" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -137,8 +134,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/RegexMatch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+        <state relative-caret-position="425">
+          <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1526#1527#0" expanded="true" />
