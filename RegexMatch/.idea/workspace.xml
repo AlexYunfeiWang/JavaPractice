@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="66fdf27c-82e4-4db1-b473-08a36b44fa2a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="5df12d07-97c9-4d4f-af4e-8d3f0a749412" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Minesweeper/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Minesweeper/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,10 +14,15 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Minesweeper.java">
+        <entry file="file://$PROJECT_DIR$/src/RegexMatch.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+            <state relative-caret-position="500">
+              <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1526#1527#0" expanded="true" />
+                <element signature="e#1573#1574#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -37,7 +42,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Minesweeper.java" />
+        <option value="$PROJECT_DIR$/src/RegexMatch.java" />
       </list>
     </option>
   </component>
@@ -53,23 +58,23 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Minesweeper" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Minesweeper" type="462c0819:PsiDirectoryNode" />
+              <item name="RegexMatch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RegexMatch" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553630602366" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553656516574" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -88,23 +93,24 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="66fdf27c-82e4-4db1-b473-08a36b44fa2a" name="Default Changelist" comment="" />
-      <created>1553572880153</created>
+      <changelist id="5df12d07-97c9-4d4f-af4e-8d3f0a749412" name="Default Changelist" comment="" />
+      <created>1553634666580</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1553572880153</updated>
+      <updated>1553634666580</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="1911" y="-9" width="1098" height="1938" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24951077" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24951077" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
@@ -129,10 +135,15 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Minesweeper.java">
+    <entry file="file://$PROJECT_DIR$/src/RegexMatch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+        <state relative-caret-position="500">
+          <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1526#1527#0" expanded="true" />
+            <element signature="e#1573#1574#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
