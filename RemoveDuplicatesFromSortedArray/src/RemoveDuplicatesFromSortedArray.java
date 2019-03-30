@@ -4,19 +4,13 @@ public class RemoveDuplicatesFromSortedArray {
             return 0;
         }
         int start = 0;
-        int i = start;
 
-        while(i < nums.length) {
-            while(i < nums.length && nums[start] == nums[i]) {
-                i++;
-            }
-            if (i < nums.length) {
+        for (int i = 0; i < nums.length; ++i) {
+            if (nums[i] != nums[start]) {
                 start++;
                 nums[start] = nums[i];
             }
-
         }
-
         return start+1;
     }
 }
