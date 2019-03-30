@@ -27,7 +27,7 @@ public class judgePoint24 {
             }
             return;
         }
-        
+
         for (int i = 0; i < list.size(); ++i) {
             for (int j = 0; j < i; ++j) {
                 double p1 = list.get(i);
