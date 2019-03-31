@@ -12,7 +12,7 @@ public class CoinChange2 {
     2. using the ith coin, since we can use unlimited same coin, we need to know
     how many ways to make up amount j - coins[i-1] by using first i coins
     (including ith), which is dp[i][j-coins[i-1]]
-    
+
     Initialization: dp[i][0] = 1
     */
     public int change(int amount, int[] coins) {
