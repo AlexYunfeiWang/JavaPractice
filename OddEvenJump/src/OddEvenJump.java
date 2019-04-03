@@ -32,10 +32,13 @@ using the number as Key and its index as Value.
         dp[n-1][1] = true;
         map.put(A[n-1], n-1);
 
+        //result initialized to be 1 because starting from n-1 and get
+        //to n-1 is already true
         int res = 1;
 
         for (int i = n-2; i >= 0; --i) {
             //Odd step
+            //find smallest next greater number for current A[i]
             //ceilingKey returns the smallest number that is >= given key
             Integer nextGreater = map.ceilingKey(A[i]);
             if (nextGreater != null) {
@@ -43,12 +46,15 @@ using the number as Key and its index as Value.
             }
 
             //Even step
+            //find largest next smaller number for current A[i]
             //floorKey returns the greatest number that is <= given key
             Integer nextSmaller = map.floorKey(A[i]);
             if (nextSmaller != null) {
                 dp[i][1] = dp[map.get(nextSmaller)][0];
             }
 
+            //traversing backward makes sure that for a same number, index is
+            //always going to be the smaller one
             map.put(A[i], i);
 
             res += dp[i][0] ? 1 : 0;
