@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="113c5db3-b9fd-40ca-beab-1f0d59180281" name="Default Changelist" comment="" />
+    <list default="true" id="da284bb7-cb35-4201-a160-bfd03a96fdd7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../MyCalendar/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyCalendar/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,15 +14,19 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/MyCalendar.java">
+        <entry file="file://$PROJECT_DIR$/src/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#237#238#0" expanded="true" />
-                <element signature="e#285#286#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="300">
+              <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Reader4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="17" column="57" lean-forward="true" selection-start-line="17" selection-start-column="57" selection-end-line="17" selection-end-column="57" />
             </state>
           </provider>
         </entry>
@@ -40,7 +46,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/MyCalendar.java" />
+        <option value="$PROJECT_DIR$/src/Solution.java" />
+        <option value="$PROJECT_DIR$/src/Read4.java" />
+        <option value="$PROJECT_DIR$/src/Reader4.java" />
       </list>
     </option>
   </component>
@@ -60,8 +68,13 @@
         <subPane>
           <expand>
             <path>
-              <item name="MyCalendar" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyCalendar" type="462c0819:PsiDirectoryNode" />
+              <item name="ReadNCharactersGivenRead4-II-CallMultipleTimes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ReadNCharactersGivenRead4-II-CallMultipleTimes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ReadNCharactersGivenRead4-II-CallMultipleTimes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ReadNCharactersGivenRead4-II-CallMultipleTimes" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -72,7 +85,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554612984405" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554615107511" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -91,11 +104,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="113c5db3-b9fd-40ca-beab-1f0d59180281" name="Default Changelist" comment="" />
-      <created>1554612932598</created>
+      <changelist id="da284bb7-cb35-4201-a160-bfd03a96fdd7" name="Default Changelist" comment="" />
+      <created>1554614953345</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1554612932598</updated>
+      <updated>1554614953345</updated>
     </task>
     <servers />
   </component>
@@ -107,7 +120,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.24951077" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24951077" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
@@ -122,9 +135,9 @@
       <window_info anchor="right" id="Palette" />
       <window_info anchor="right" id="PlantUML" />
       <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Maven" />
       <window_info anchor="right" id="UML design tool window" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -132,15 +145,17 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/MyCalendar.java">
+    <entry file="file://$PROJECT_DIR$/src/Reader4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#237#238#0" expanded="true" />
-            <element signature="e#285#286#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="425">
+          <caret line="17" column="57" lean-forward="true" selection-start-line="17" selection-start-column="57" selection-end-line="17" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
         </state>
       </provider>
     </entry>
