@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b211e11b-47b9-4f17-80bb-38326e9358bd" name="Default Changelist" comment="" />
+    <list default="true" id="0f8c9709-4409-4b3a-a55e-2e9e48fd49de" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../OnlineElection/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OnlineElection/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,13 +14,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/OnlineElection.java">
+        <entry file="file://$PROJECT_DIR$/src/WordAbbreviation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="350">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -38,7 +37,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/OnlineElection.java" />
+        <option value="$PROJECT_DIR$/src/WordAbbreviation.java" />
       </list>
     </option>
   </component>
@@ -54,14 +53,14 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="OnlineElection" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OnlineElection" type="462c0819:PsiDirectoryNode" />
+              <item name="WordAbbreviation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WordAbbreviation" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -70,7 +69,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554686101128" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554690237502" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -89,23 +88,24 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b211e11b-47b9-4f17-80bb-38326e9358bd" name="Default Changelist" comment="" />
-      <created>1554682885905</created>
+      <changelist id="0f8c9709-4409-4b3a-a55e-2e9e48fd49de" name="Default Changelist" comment="" />
+      <created>1554690222549</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1554682885905</updated>
+      <updated>1554690222549</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="1911" y="-9" width="1098" height="1938" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.24951077" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24951077" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
@@ -130,13 +130,10 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/OnlineElection.java">
+    <entry file="file://$PROJECT_DIR$/src/WordAbbreviation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="350">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
