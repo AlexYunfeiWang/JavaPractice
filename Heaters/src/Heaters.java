@@ -18,7 +18,8 @@ public class Heaters {
         int max = 0;
 
         while(houseIndex < houses.length) {
-            while(heaterIndex < heaters.length-1 && houses[houseIndex] - heaters[heaterIndex] >= heaters[heaterIndex+1] - houses[houseIndex]) {
+            while(heaterIndex < heaters.length-1
+                    && houses[houseIndex] - heaters[heaterIndex] >= heaters[heaterIndex+1] - houses[houseIndex]) {
                 heaterIndex++;
             }
             max = Math.max(max, Math.abs(houses[houseIndex] - heaters[heaterIndex]));
